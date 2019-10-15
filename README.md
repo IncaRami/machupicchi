@@ -1,1 +1,1 @@
-# machupicchi
+# machupicchu
